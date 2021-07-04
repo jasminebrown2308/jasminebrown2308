@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @jasminebrown2308
+- 👋 Hi, I'm Jasmine
 - 💻 I'm a CS student at the University of Warwick, currently at the end of my first year
 - 👀 I'm interested in software, app and web development - both front-end and back-end
 - 🌱 I’m currently learning app development for iOS (using Swift) and Android (using Kotlin/Java)
