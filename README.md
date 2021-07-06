@@ -1,9 +1,9 @@
-- 👋 Hi, I'm Jasmine
-- 💻 I'm a CS student at the University of Warwick, currently at the end of my first year
-- 👀 I'm interested in software, app and web development - both front-end and back-end
-- 🌱 I’m currently learning app development for iOS (using Swift) and Android (using Kotlin/Java)
-- 📫 How to reach me: email jasminebrown2308@gmail.com
-- 😄 Pronouns: she/her
+- 👋  Hi, I'm Jasmine
+- 💻  I'm a CS student at the University of Warwick, currently at the end of my first year
+- 👀  I'm interested in software, app and web development - both front-end and back-end
+- 🌱  I’m currently learning app development for iOS (using Swift) and Android (using Kotlin/Java)
+- 📫  How to reach me: email jasminebrown2308@gmail.com
+- 😄  Pronouns: she/her
 
 <!--
 **jasminebrown2308/jasminebrown2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
